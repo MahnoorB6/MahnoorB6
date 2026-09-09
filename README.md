@@ -172,28 +172,109 @@ Android-based scientific calculator application with advanced mathematical opera
 
 ---
 
-## 🐍 Contribution Activity
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 Artificial Intelligence
+
+LLMs • AI Agents • RAG
+Intelligent Systems • Automation
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎙️ Voice AI
+
+Conversational AI • TTS
+Real-time Voice Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🧠 Machine Learning
+
+Predictive Models • NLP
+Computer Vision • Classification
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚡ Backend Engineering
+
+FastAPI • PostgreSQL
+APIs • System Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🎭 Automation
+
+Playwright • Browser Automation
+API Integrations • Workflows
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 Product Engineering
+
+Building • Testing • Deploying
+Turning ideas into real products
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🐍 Contribution Activity
 
-```text
-Artificial Intelligence  ███████████████████░░
-AI Agents                ██████████████████░░░
-Voice AI                 █████████████████░░░░
-Machine Learning         ████████████████░░░░░
-Backend Engineering      █████████████████░░░░
-Automation               ██████████████████░░░
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900"/>
+
+</div>
 
 ---
+
+## ⚡ Engineering Philosophy
+
+<div align="center">
+
+### **Think → Build → Break → Learn → Improve**
+
+<br>
+
+`AI` × `Engineering` × `Automation` × `Creativity`
+
+<br><br>
+
+> **Building intelligent systems that turn ideas into reality.**
+
+</div>
+
 
 ## 🌱 Currently Learning
 
