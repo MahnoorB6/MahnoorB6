@@ -203,20 +203,20 @@ An image classification system designed to identify different types of fruit.
 
 <div align="center">
 
-
 ## 📊 GitHub Analytics
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahnoorB6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Mahnoor's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorB6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahnoorB6&theme=tokyonight&hide_border=true" width="700" alt="GitHub Contribution Streak"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MahnoorB6&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+### ⚡ Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahnoorB6&theme=tokyo-night&hide_border=true&area=true" width="900" alt="GitHub Activity Graph"/>
 
 </div>
+
 
 
 ---
