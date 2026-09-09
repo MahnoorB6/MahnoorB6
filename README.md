@@ -4,11 +4,11 @@
 
 ### ⚡ Engineering intelligence. Building what's next.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+%26+Software+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Software+Developer;Building+Intelligent+Systems;AI+Agents+%7C+Voice+AI+%7C+Automation;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -16,23 +16,46 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Science student and aspiring AI/software engineer** who enjoys building practical technology that solves real problems.
+I'm a **Computer Science student and aspiring AI & Software Engineer** passionate about turning ideas into practical technology.
 
-I'm particularly interested in:
+I enjoy building systems that combine **Artificial Intelligence, automation, backend engineering, and intelligent user experiences.**
+
+### What I'm interested in
 
 * 🤖 Artificial Intelligence & LLMs
 * 🧠 Machine Learning
+* 🕸️ AI Agents & Automation
 * 🎙️ Voice AI & Conversational Systems
-* ⚡ AI Agents & Automation
-* 🌐 Backend Development
+* ⚡ Backend Development
 * 🎭 Browser Automation
 * 🗄️ Databases & APIs
+* 🌐 Full-Stack Development
 
 > **I don't just learn technology — I build with it.**
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 What I'm Building
+
+### 🤖 AI Agents
+
+Creating intelligent agents capable of reasoning, interacting with users, and automating real-world workflows.
+
+### 🎙️ Voice AI
+
+Exploring natural voice interaction, conversational systems, and human-like AI experiences.
+
+### 🧑‍💼 AI Recruitment
+
+Building intelligent recruitment tools that can automate interviews, evaluate candidates, and generate actionable insights.
+
+### ⚙️ Automation
+
+Connecting APIs, browsers, databases, and AI models to create end-to-end automated systems.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -40,39 +63,41 @@ I'm particularly interested in:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
 
-### Backend & Database
+### AI & Development
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql,docker,linux" />
 
-### Tools & Platforms
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 🤖 SalesInterviewAI
 
-> **AI-powered sales interview platform**
+**AI-powered sales interview platform**
 
 An intelligent recruitment system designed to automate and enhance the interview process.
 
-**Built with:**
+**Core technologies**
 
 `Python` `FastAPI` `PostgreSQL` `Playwright` `Google APIs` `AI` `Voice AI`
 
-**Highlights**
+**Features**
 
-* 🎙️ AI voice interviewer
+* 🎙️ AI voice interviewer — **Alena**
 * 📅 Automated interview scheduling
+* 📧 Candidate email workflow
 * 🎥 Google Meet integration
 * 🎭 Browser automation
-* 🧠 AI candidate evaluation
+* 🧠 AI-powered candidate evaluation
 * 📝 Interview transcripts
 * 📊 Performance reports
+* ⚡ Automated interview workflow
 
 ---
 
@@ -80,15 +105,48 @@ An intelligent recruitment system designed to automate and enhance the interview
 
 Machine learning system designed to predict flood-related outcomes from environmental data.
 
-**Technologies:** `Python` `CatBoost` `PCA` `Machine Learning`
+**Technologies**
+
+`Python` `CatBoost` `PCA` `Machine Learning`
+
+**Highlights**
+
+* 📊 Data preprocessing
+* 🧠 Feature reduction with PCA
+* 🌳 CatBoost classification
+* 📈 ~95% model accuracy
 
 ---
 
 ### 📰 Fake News Detector
 
-Machine learning project comparing classification techniques for detecting fake news.
+Machine learning project focused on detecting potentially fake news articles.
 
-**Technologies:** `Python` `KNN` `Naive Bayes` `Machine Learning`
+**Technologies**
+
+`Python` `KNN` `Naive Bayes` `Machine Learning`
+
+Built to compare different classification approaches and evaluate their performance.
+
+---
+
+### 🍎 Fruit Image Classifier
+
+Computer vision project for classifying fruit images using machine learning techniques.
+
+**Technologies**
+
+`Python` `Machine Learning` `Computer Vision`
+
+---
+
+### 🧮 Scientific Calculator
+
+Android-based scientific calculator application with advanced mathematical operations.
+
+**Technologies**
+
+`Java` `Android`
 
 ---
 
@@ -114,26 +172,51 @@ Machine learning project comparing classification techniques for detecting fake 
 
 ---
 
-## 🎯 Currently Building
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```text
-AI Agents        ███████████████████░░
-Voice AI         ████████████████░░░░░
-Machine Learning ███████████████░░░░░░
-Backend Systems  █████████████████░░░░
-Automation       ██████████████████░░░
+Artificial Intelligence  ███████████████████░░
+AI Agents                ██████████████████░░░
+Voice AI                 █████████████████░░░░
+Machine Learning         ████████████████░░░░░
+Backend Engineering      █████████████████░░░░
+Automation               ██████████████████░░░
 ```
 
 ---
 
-## 🌱 2026 Goals
+## 🌱 Currently Learning
+
+* 🧠 Large Language Models
+* 🔗 RAG & AI Pipelines
+* 🤖 Agentic AI
+* 🎙️ Voice AI
+* ⚡ FastAPI & Backend Architecture
+* ☁️ Cloud & Deployment
+* 🐳 Docker
+* 🗄️ Scalable Database Systems
+
+---
+
+## 💡 My 2026 Goals
 
 * 🤖 Build advanced AI agents
-* 🧠 Master RAG & LLM systems
 * 🎙️ Develop production-grade Voice AI
+* 🧠 Deepen my understanding of LLM systems
+* 🔗 Build practical RAG applications
 * ☁️ Learn cloud deployment
-* 🛠️ Build more open-source projects
-* 🚀 Create production-ready software
+* 🛠️ Contribute to open source
+* 🚀 Build production-ready AI products
 * 💡 Turn more ideas into real products
 
 ---
@@ -152,11 +235,13 @@ Automation       ██████████████████░░░
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### ⚡ Build. Learn. Break. Improve. Repeat.
+
+<br>
 
 **Thanks for visiting my profile! ⭐**
 
