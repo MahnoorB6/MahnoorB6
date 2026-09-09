@@ -1,28 +1,18 @@
 <div align="center">
 
-# MAHNOOR
-
-### ⚡ Engineering intelligence. Building what's next.
-
-**AI • Software Engineering • Automation**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0f172a,100:00f7ff&height=240&section=header&text=MAHNOOR%20BHATTI&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Engineering%20intelligence.%20Building%20what's%20next.&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems;Turning+ideas+into+real+products" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1800&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%2B+Software+Engineering;Intelligent+Systems+%7C+Voice+AI+%7C+Automation;Building+ideas+into+real+products" alt="AI Engineering"/>
 
 <br><br>
 
-<a href="https://github.com/MahnoorB6">
-<img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,fastapi,postgresql,docker,git" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
 
 </div>
 
@@ -30,18 +20,30 @@
 
 <div align="center">
 
-## 🧠 WHAT I BUILD
+### `AI` × `ENGINEERING` × `AUTOMATION`
+
+**Computer Science Student · AI Developer · Builder**
+
+</div>
+
+---
+
+## 🧠 What I Build
+
+<div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖
 
 **AI AGENTS**
 
-Intelligent systems
-& automation
+LLMs
+RAG
+Intelligent Automation
 
 </td>
 
@@ -51,8 +53,9 @@ Intelligent systems
 
 **VOICE AI**
 
-Conversational
-AI experiences
+Conversational Systems
+TTS
+Real-time Interaction
 
 </td>
 
@@ -60,10 +63,11 @@ AI experiences
 
 ### 🧠
 
-**MACHINE LEARNING**
+**ML SYSTEMS**
 
-Predictive &
-intelligent systems
+Prediction
+Classification
+Computer Vision
 
 </td>
 
@@ -73,10 +77,12 @@ intelligent systems
 
 **AUTOMATION**
 
-APIs • Browsers
-• Workflows
+APIs
+Browser Automation
+Workflows
 
 </td>
+
 </tr>
 </table>
 
@@ -84,19 +90,26 @@ APIs • Browsers
 
 ---
 
+## ⚡ Tech Stack
+
 <div align="center">
 
-## ⚡ TECHNOLOGIES
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,fastapi,postgresql,mysql,docker,linux,git,github,vscode,postman&perline=8" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql,docker,linux,git,github,vscode,postman&perline=9" />
 
 </div>
 
 ---
 
-## 🚀 FEATURED WORK
+## 🚀 Featured Work
+
+<div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -107,12 +120,14 @@ APIs • Browsers
 
 An intelligent recruitment system combining AI, voice interaction, browser automation and automated interview workflows.
 
+<br>
+
 **Stack**
 
 `Python` `FastAPI` `PostgreSQL`
 `Playwright` `Google APIs` `Voice AI`
 
-**Built with**
+<br>
 
 🎙️ AI interviewer — **Alena**
 📅 Automated scheduling
@@ -129,13 +144,15 @@ An intelligent recruitment system combining AI, voice interaction, browser autom
 
 **Machine learning prediction system**
 
-A predictive ML system using environmental data to identify flood-related outcomes.
+A predictive system using environmental data to identify flood-related outcomes.
+
+<br>
 
 **Stack**
 
 `Python` `CatBoost` `PCA`
 
-**Highlights**
+<br>
 
 📊 Data preprocessing
 🧠 Feature reduction
@@ -154,7 +171,9 @@ A predictive ML system using environmental data to identify flood-related outcom
 
 **ML-based news classification**
 
-A machine learning project comparing classification approaches for detecting potentially fake news.
+A machine learning system for detecting potentially fake news.
+
+<br>
 
 `Python` `KNN` `Naive Bayes`
 
@@ -168,22 +187,29 @@ A machine learning project comparing classification approaches for detecting pot
 
 An image classification system designed to identify different types of fruit.
 
+<br>
+
 `Python` `Machine Learning` `Computer Vision`
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB ACTIVITY
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MahnoorB6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorB6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahnoorB6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorB6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
 
@@ -195,7 +221,7 @@ An image classification system designed to identify different types of fruit.
 
 <div align="center">
 
-## 🐍 CONTRIBUTION ACTIVITY
+## 🐍 Contribution Activity
 
 <img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900"/>
 
@@ -203,12 +229,21 @@ An image classification system designed to identify different types of fruit.
 
 ---
 
+## 🌌 Currently Exploring
+
 <div align="center">
 
-## 🌌 CURRENTLY EXPLORING
+<img src="https://img.shields.io/badge/LLMs-0f172a?style=for-the-badge&logo=openai&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=for-the-badge&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Voice%20AI-0f172a?style=for-the-badge&logoColor=00f7ff"/>
 
-`LLMs` · `RAG` · `AI Agents` · `Voice AI`
-`FastAPI` · `PostgreSQL` · `Docker` · `Cloud`
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Cloud-0f172a?style=for-the-badge&logo=icloud&logoColor=00f7ff"/>
 
 </div>
 
@@ -216,18 +251,38 @@ An image classification system designed to identify different types of fruit.
 
 <div align="center">
 
-## 💭
+## 💡 Engineering Philosophy
 
 ### **Think → Build → Break → Learn → Improve**
 
 <br>
 
-**Turning intelligence into software.**
+`Curiosity` · `Experimentation` · `Engineering` · `Innovation`
 
 <br><br>
 
+### ⚡ Turning intelligence into software.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br>
+
 <a href="https://github.com/MahnoorB6">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0f172a,100:050816&height=120&section=footer" width="100%"/>
 
 </div>
