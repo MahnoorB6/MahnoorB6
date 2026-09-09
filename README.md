@@ -248,14 +248,14 @@ Turning ideas into real products
 </div>
 
 ---
-
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900"/>
+<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900"/>
 
 </div>
+
 
 ---
 
