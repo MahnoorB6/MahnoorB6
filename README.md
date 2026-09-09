@@ -223,9 +223,10 @@ An image classification system designed to identify different types of fruit.
 
 ## 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900"/>
+<img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900">
 
 </div>
+
 
 
 ---
