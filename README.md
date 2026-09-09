@@ -1,170 +1,191 @@
 <div align="center">
 
-# 👋 Hey, I'm Mahnoor
+# MAHNOOR
 
 ### ⚡ Engineering intelligence. Building what's next.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Software+Developer;Building+Intelligent+Systems;AI+Agents+%7C+Voice+AI+%7C+Automation;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+**AI • Software Engineering • Automation**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems;Turning+ideas+into+real+products" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/MahnoorB6">
+<img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
 
 </div>
 
 ---
-
-## 🧠 About Me
-
-I'm a **Computer Science student and aspiring AI & Software Engineer** passionate about turning ideas into practical technology.
-
-I enjoy building systems that combine **Artificial Intelligence, automation, backend engineering, and intelligent user experiences.**
-
-### What I'm interested in
-
-* 🤖 Artificial Intelligence & LLMs
-* 🧠 Machine Learning
-* 🕸️ AI Agents & Automation
-* 🎙️ Voice AI & Conversational Systems
-* ⚡ Backend Development
-* 🎭 Browser Automation
-* 🗄️ Databases & APIs
-* 🌐 Full-Stack Development
-
-> **I don't just learn technology — I build with it.**
-
----
-
-## 🚀 What I'm Building
-
-### 🤖 AI Agents
-
-Creating intelligent agents capable of reasoning, interacting with users, and automating real-world workflows.
-
-### 🎙️ Voice AI
-
-Exploring natural voice interaction, conversational systems, and human-like AI experiences.
-
-### 🧑‍💼 AI Recruitment
-
-Building intelligent recruitment tools that can automate interviews, evaluate candidates, and generate actionable insights.
-
-### ⚙️ Automation
-
-Connecting APIs, browsers, databases, and AI models to create end-to-end automated systems.
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+## 🧠 WHAT I BUILD
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
+<table>
+<tr>
+<td align="center" width="25%">
 
-### AI & Development
+### 🤖
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql,docker,linux" />
+**AI AGENTS**
 
-### Tools
+Intelligent systems
+& automation
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</td>
+
+<td align="center" width="25%">
+
+### 🎙️
+
+**VOICE AI**
+
+Conversational
+AI experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**MACHINE LEARNING**
+
+Predictive &
+intelligent systems
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**AUTOMATION**
+
+APIs • Browsers
+• Workflows
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
+
+## ⚡ TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,fastapi,postgresql,mysql,docker,linux,git,github,vscode,postman&perline=8" />
+
+</div>
+
+---
+
+## 🚀 FEATURED WORK
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤖 SalesInterviewAI
 
 **AI-powered sales interview platform**
 
-An intelligent recruitment system designed to automate and enhance the interview process.
+An intelligent recruitment system combining AI, voice interaction, browser automation and automated interview workflows.
 
-**Core technologies**
+**Stack**
 
-`Python` `FastAPI` `PostgreSQL` `Playwright` `Google APIs` `AI` `Voice AI`
+`Python` `FastAPI` `PostgreSQL`
+`Playwright` `Google APIs` `Voice AI`
 
-**Features**
+**Built with**
 
-* 🎙️ AI voice interviewer — **Alena**
-* 📅 Automated interview scheduling
-* 📧 Candidate email workflow
-* 🎥 Google Meet integration
-* 🎭 Browser automation
-* 🧠 AI-powered candidate evaluation
-* 📝 Interview transcripts
-* 📊 Performance reports
-* ⚡ Automated interview workflow
+🎙️ AI interviewer — **Alena**
+📅 Automated scheduling
+🎥 Google Meet integration
+🧠 Candidate evaluation
+📝 Transcripts
+📊 Performance reports
 
----
+</td>
 
-### 🌊 Flood Prediction System
+<td width="50%" valign="top">
 
-Machine learning system designed to predict flood-related outcomes from environmental data.
+### 🌊 Flood Prediction
 
-**Technologies**
+**Machine learning prediction system**
 
-`Python` `CatBoost` `PCA` `Machine Learning`
+A predictive ML system using environmental data to identify flood-related outcomes.
+
+**Stack**
+
+`Python` `CatBoost` `PCA`
 
 **Highlights**
 
-* 📊 Data preprocessing
-* 🧠 Feature reduction with PCA
-* 🌳 CatBoost classification
-* 📈 ~95% model accuracy
+📊 Data preprocessing
+🧠 Feature reduction
+🌳 CatBoost classification
+📈 ~95% model accuracy
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📰 Fake News Detector
 
-Machine learning project focused on detecting potentially fake news articles.
+**ML-based news classification**
 
-**Technologies**
+A machine learning project comparing classification approaches for detecting potentially fake news.
 
-`Python` `KNN` `Naive Bayes` `Machine Learning`
+`Python` `KNN` `Naive Bayes`
 
-Built to compare different classification approaches and evaluate their performance.
+</td>
 
----
+<td width="50%" valign="top">
 
 ### 🍎 Fruit Image Classifier
 
-Computer vision project for classifying fruit images using machine learning techniques.
+**Computer vision project**
 
-**Technologies**
+An image classification system designed to identify different types of fruit.
 
 `Python` `Machine Learning` `Computer Vision`
 
----
+</td>
 
-### 🧮 Scientific Calculator
-
-Android-based scientific calculator application with advanced mathematical operations.
-
-**Technologies**
-
-`Java` `Android`
+</tr>
+</table>
 
 ---
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahnoorB6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+## 📊 GITHUB ACTIVITY
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorB6&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MahnoorB6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorB6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=MahnoorB6&theme=tokyonight&hide_border=true" />
 
@@ -172,158 +193,41 @@ Android-based scientific calculator application with advanced mathematical opera
 
 ---
 
-## 🎯 Current Focus
-
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🤖 Artificial Intelligence
-
-LLMs • AI Agents • RAG
-Intelligent Systems • Automation
-
-</td>
-
-<td width="50%" align="center">
-
-### 🎙️ Voice AI
-
-Conversational AI • TTS
-Real-time Voice Systems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🧠 Machine Learning
-
-Predictive Models • NLP
-Computer Vision • Classification
-
-</td>
-
-<td width="50%" align="center">
-
-### ⚡ Backend Engineering
-
-FastAPI • PostgreSQL
-APIs • System Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🎭 Automation
-
-Playwright • Browser Automation
-API Integrations • Workflows
-
-</td>
-
-<td width="50%" align="center">
-
-### 🚀 Product Engineering
-
-Building • Testing • Deploying
-Turning ideas into real products
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-## 🐍 Contribution Activity
-
-<div align="center">
+## 🐍 CONTRIBUTION ACTIVITY
 
 <img src="https://raw.githubusercontent.com/MahnoorB6/MahnoorB6/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="900"/>
 
 </div>
 
+---
+
+<div align="center">
+
+## 🌌 CURRENTLY EXPLORING
+
+`LLMs` · `RAG` · `AI Agents` · `Voice AI`
+`FastAPI` · `PostgreSQL` · `Docker` · `Cloud`
+
+</div>
 
 ---
 
-## ⚡ Engineering Philosophy
-
 <div align="center">
+
+## 💭
 
 ### **Think → Build → Break → Learn → Improve**
 
 <br>
 
-`AI` × `Engineering` × `Automation` × `Creativity`
+**Turning intelligence into software.**
 
 <br><br>
 
-> **Building intelligent systems that turn ideas into reality.**
-
-</div>
-
-
-## 🌱 Currently Learning
-
-* 🧠 Large Language Models
-* 🔗 RAG & AI Pipelines
-* 🤖 Agentic AI
-* 🎙️ Voice AI
-* ⚡ FastAPI & Backend Architecture
-* ☁️ Cloud & Deployment
-* 🐳 Docker
-* 🗄️ Scalable Database Systems
-
----
-
-## 💡 My 2026 Goals
-
-* 🤖 Build advanced AI agents
-* 🎙️ Develop production-grade Voice AI
-* 🧠 Deepen my understanding of LLM systems
-* 🔗 Build practical RAG applications
-* ☁️ Learn cloud deployment
-* 🛠️ Contribute to open source
-* 🚀 Build production-ready AI products
-* 💡 Turn more ideas into real products
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
 <a href="https://github.com/MahnoorB6">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ Build. Learn. Break. Improve. Repeat.
-
-<br>
-
-**Thanks for visiting my profile! ⭐**
 
 </div>
