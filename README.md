@@ -207,10 +207,6 @@ An image classification system designed to identify different types of fruit.
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahnoorB6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorB6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=MahnoorB6&theme=tokyonight&hide_border=true" />
