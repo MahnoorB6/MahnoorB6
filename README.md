@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0f172a,100:00f7ff&height=240&section=header&text=MAHNOOR%20BHATTI&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Engineering%20intelligence.%20Building%20what's%20next.&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a3033,45:8e5b62,100:e5a08e&height=240&section=header&text=MAHNOOR%20BHATTI&fontSize=52&fontColor=fff7f2&fontAlignY=40&desc=Engineering%20intelligence.%20Building%20what's%20next.&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1800&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%2B+Software+Engineering;Intelligent+Systems+%7C+Voice+AI+%7C+Automation;Building+ideas+into+real+products" alt="AI Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1800&color=C98786&center=true&vCenter=true&width=650&lines=AI+%2B+Software+Engineering;Intelligent+Systems+%7C+Voice+AI+%7C+Automation;Building+ideas+into+real+products" alt="AI Engineering"/>
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MahnoorB6&label=PROFILE+VIEWS&color=C98786&style=for-the-badge" />
 
 </div>
 
@@ -207,13 +207,13 @@ An image classification system designed to identify different types of fruit.
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahnoorB6&theme=tokyonight" width="900" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahnoorB6&theme=default&title_color=8e4b5b&text_color=5f4b4b&bg_color=fff7f2&border_color=e3d6d2&icon_color=c98786&chart_color=d99a98" width="900" alt="GitHub Profile Details"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahnoorB6&theme=tokyonight" height="180" alt="Repositories Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahnoorB6&theme=default&title_color=8e4b5b&text_color=5f4b4b&bg_color=fff7f2&border_color=e3d6d2&icon_color=c98786&chart_color=d99a98" height="180" alt="Repositories Per Language"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahnoorB6&theme=tokyonight" height="180" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahnoorB6&theme=default&title_color=8e4b5b&text_color=5f4b4b&bg_color=fff7f2&border_color=e3d6d2&icon_color=c98786&chart_color=d99a98" height="180" alt="Most Commit Language"/>
 
 </div>
 
@@ -235,17 +235,17 @@ An image classification system designed to identify different types of fruit.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLMs-0f172a?style=for-the-badge&logo=openai&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=for-the-badge&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Voice%20AI-0f172a?style=for-the-badge&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/LLMs-0f172a?style=for-the-badge&logo=openai&logoColor=F2B7A8"/>
+<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logoColor=F2B7A8"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=for-the-badge&logoColor=F2B7A8"/>
+<img src="https://img.shields.io/badge/Voice%20AI-0f172a?style=for-the-badge&logoColor=F2B7A8"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Cloud-0f172a?style=for-the-badge&logo=icloud&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=F2B7A8"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=F2B7A8"/>
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=F2B7A8"/>
+<img src="https://img.shields.io/badge/Cloud-0f172a?style=for-the-badge&logo=icloud&logoColor=F2B7A8"/>
 
 </div>
 
@@ -276,15 +276,15 @@ An image classification system designed to identify different types of fruit.
 <br>
 
 <a href="https://github.com/MahnoorB6">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=fff7f2"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=c98786"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0f172a,100:050816&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5a08e,50:8e5b62,100:4a3033&height=120&section=footer" width="100%"/>
 
 </div>
